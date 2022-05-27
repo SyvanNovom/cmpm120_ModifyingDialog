@@ -2,7 +2,7 @@
 	[
 		{
 			"speaker" : "homer",
-			"dialog" : "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy.",
+			"dialog" : "Tell me, O muse, of that ingenious hero who travelled far and wide after he had ravaged the famous town of Troy.",
 			"newSpeaker" : "true"
 		},
 		{
@@ -23,7 +23,7 @@
 		},
 		{	
 			"speaker" : "homer",
-			"dialog" : "Tell me, too, about all these things, O daughter of Jove, from whatsoever source you may know them."
+			"dialog" : "Tell me, too, about all these things and how it has a weird metaphoric meaning that English teachers will scrutinize for decades."
 		}
 	],
 	[
@@ -51,9 +51,13 @@
 			"newSpeaker" : "true"
 		},
 		{	
-			"speaker" : "minerva",
+			"speaker" : "neptune",
 			"dialog" : "If, then, the gods now mean that Ulysses should get home, we should first send Mercury to the Ogygian island to tell Calypso that we have made up our minds and that he is to return.",
 			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "neptune",
+			"dialog" : "Come the, let us make haste. To the Macbeth Dialog!"
 		}
 	]
 ]
